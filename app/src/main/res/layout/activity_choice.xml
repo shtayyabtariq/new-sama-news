@@ -1,0 +1,52 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context="com.xeon.geolivenews.hd.live.streaming.choice">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fitsSystemWindows="true">
+
+        <LinearLayout
+            android:id="@+id/fullscreen_content_controls"
+            style="?metaButtonBarStyle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="top|center_horizontal"
+            android:background="@color/black_overlay"
+            android:orientation="vertical"
+            tools:ignore="UselessParent">
+
+            <ImageView
+                android:id="@+id/liveimage"
+                android:layout_width="wrap_content"
+                android:layout_height="300dp"
+
+                android:background="@drawable/backsplash" />
+
+            <Button
+                android:id="@+id/live"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:background="@android:color/holo_blue_dark"
+                android:text="Live Now"
+                android:textColor="@android:color/black"
+                android:textSize="30dp"
+                android:textStyle="bold"
+
+                />
+
+
+            <com.mopub.mobileads.MoPubView
+                android:id="@+id/adview1"
+                android:layout_width="fill_parent"
+                android:layout_height="50dp" />
+
+        </LinearLayout>
+    </FrameLayout>
+
+</FrameLayout>

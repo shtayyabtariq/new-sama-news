@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sama News Live </string>
+
+    <string name="title_activity_splash_screen">Sama News - Live News Streaming</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_choice">Choose</string>
+
+    <string name="title_activity_geo_web">GeoWeb</string>
+
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+</resources>

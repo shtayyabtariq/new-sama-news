@@ -1,0 +1,671 @@
+{
+  "project_info": {
+    "project_number": "325657163589",
+    "firebase_url": "https://geonews-eca92.firebaseio.com",
+    "project_id": "geonews-eca92",
+    "storage_bucket": "geonews-eca92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:02d480a2e4617fcd",
+        "android_client_info": {
+          "package_name": "com.ior.arynews.pakistannews.livestreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-stei1r0u4ied6rkf6fn927diut5n6ttv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ior.arynews.pakistannews.livestreaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:50cc87ec4268b548",
+        "android_client_info": {
+          "package_name": "com.ior.geonews.hd.live.streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-n6v6uga7e9pfodqd0qudnsck5dmq9gqn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ior.geonews.hd.live.streaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:762d89df773c13e7",
+        "android_client_info": {
+          "package_name": "com.ior.samanews.hd.live.streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-phen53n4ta9ak2mldvo9vgp4j51dmu9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ior.samanews.hd.live.streaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:f49192883790baf9",
+        "android_client_info": {
+          "package_name": "com.ior.samanews.hd.live.tvchannels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-440unc5kj3k1f0l3vp2bv43i9h6a336d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ior.samanews.hd.live.tvchannels",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:fe529d591ff2523d",
+        "android_client_info": {
+          "package_name": "com.livenews.samanews.hd.live.streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-amr2jia9non2csgqpfgn2566kgr09pp5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.livenews.samanews.hd.live.streaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:e1d8ffb99d3575a3",
+        "android_client_info": {
+          "package_name": "com.makkah.madinah.islam.livestreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-rqqc8oeo5b8k1f13a6a9ksc6ugkdjqq8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.makkah.madinah.islam.livestreaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:ca6c31a5b184f20d",
+        "android_client_info": {
+          "package_name": "com.news.gnn.livestreaming.pakistannews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-d6tt9qnql6qt8cgn7pe4nffbtvjojhdq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.news.gnn.livestreaming.pakistannews",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:39315d8887cf8812",
+        "android_client_info": {
+          "package_name": "com.news.gnnnews.pakistannews.livestreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-o4mu61nig0qfi637cghrb2d2oljuuv2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.news.gnnnews.pakistannews.livestreaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:86c3dc02bc512371",
+        "android_client_info": {
+          "package_name": "com.pakistani.samanews.hd.live.streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-cqaq1mcq4sb30fhe8r5ldudc6spibbp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pakistani.samanews.hd.live.streaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:cb2398d7c79bdd73",
+        "android_client_info": {
+          "package_name": "com.xeon.DawnNews.pakistanelections.livestreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-b6gvnp59gqd6gbpl9lro444ngqnmm5ko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeon.DawnNews.pakistanelections.livestreaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:5abc47e8fdc9c62f",
+        "android_client_info": {
+          "package_name": "com.xeon.arynews.pakistannews.livestreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-3f3dpe50po6rrdc8vdvlvfkcplrjlv7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeon.arynews.pakistannews.livestreaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:b764ee49f722e2b4",
+        "android_client_info": {
+          "package_name": "com.xeon.dawnnews.pakistanelections.livestreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-uqtqdispjp4g3179qrll6t3emn8gu1nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeon.dawnnews.pakistanelections.livestreaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:0af8ccd5ad190374",
+        "android_client_info": {
+          "package_name": "com.xeon.geolivenews.hd.live.streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-7uhkaabiq4049nbvrrr8ubb2s9biau63.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeon.geolivenews.hd.live.streaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:4be10b2624d5a40e",
+        "android_client_info": {
+          "package_name": "com.xeon.geonews.hd.live.streaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-g83q9kiol2ugvir0ouu007tpa3nka7kf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeon.geonews.hd.live.streaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325657163589:android:2c2c656a3d6aea80",
+        "android_client_info": {
+          "package_name": "com.xeon.news.pakistanelections.livestreaming"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325657163589-bmmjklsvhnk1jceuv5o7ts0huqafhj5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xeon.news.pakistanelections.livestreaming",
+            "certificate_hash": "68f7acf10b7e10da027cea72d40ba20d6b9a80f7"
+          }
+        },
+        {
+          "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtypL_AkvWsVjCGu8Csd7HGh8Wkaou0GM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325657163589-1snhtibia9t82rkglvd76qul6287fk43.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="com.mopub.mediation:admob:15.0.0.8@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mopub.mediation/admob/15.0.0.8/bb8dede6ec2af694ff278ad2a51223902bc3483b/admob-15.0.0.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mopub.mediation/admob/15.0.0.8/d64ae4e10851f4285f7c28b2fdc0053638378e2/admob-15.0.0.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
